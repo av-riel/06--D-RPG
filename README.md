@@ -17,4 +17,4 @@ Niko Futuristic City Model (https://niko-3d-models.itch.io/low-poly-futuristic-c
 ## Created By
 Avriel Donaldson
 
---- I ended up accidentally deleting part of the project cause I forgot when you duplicate a scene it changes that scene too, and got frustrated and didn't finish ---
+--- I ended up accidentally deleting part of the project cause I forgot when you duplicate a scene it changes the original scene too, and got frustrated and didn't finish ---
